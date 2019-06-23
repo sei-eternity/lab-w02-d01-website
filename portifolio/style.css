@@ -1,0 +1,55 @@
+h1 {
+	font-family: 'Slabo 50px', serif;
+	text-align: center;
+	padding: 30px 0;
+	border: 10px solid orange;
+}
+
+h2 {
+	font-family: 'Slabo 100px', serif;
+	text-align: center;
+	padding: 60px 0 0 0;
+	text-decoration: underline;
+}
+
+p {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	padding: 10px 0;
+	display: block;
+}
+
+
+.nav-link {
+	color: white;
+}
+
+.nav {
+	background-color: orange;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+  	align-content: space-around;
+	height: 500px;
+	padding-top: 60px;
+	padding-left: 80px;
+	}
+
+footer {
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center; 
+}
+
+span.heart {
+	color: red;
+}
+
+.welcome {
+	font-size: 200px;
+	text-align: center;
+}
