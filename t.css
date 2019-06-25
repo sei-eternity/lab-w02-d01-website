@@ -1,0 +1,38 @@
+img{
+/* border-right: 10px double yellow;  */
+margin-right:220px;
+/* position: static;
+border: 3px solid #73AD21; */
+padding-right: 220px;
+
+position: fixed;
+top:5px;
+bottom: 600px;
+left: 1000px;
+width: 450px;
+height: 600px;
+/* background-color:pink;  */
+
+}
+h2{
+    color: blueviolet;
+    background-color: white;
+    margin-right: 1030px;
+    /* text-align: 0 */
+
+}
+a{color: brown;}
+p{
+margin-top: 55px;
+
+}
+footer{
+    margin-top: 280px;  
+}
+html{
+    background-color: grey;
+}
+.k{
+    margin-right: 10px;  
+
+}
